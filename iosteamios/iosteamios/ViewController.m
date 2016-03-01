@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"dbhdsfasd");
+    NSLog(@"你好");
 }
 
 - (void)didReceiveMemoryWarning {
